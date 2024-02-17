@@ -23,5 +23,5 @@ Prós de usar antiCL-NUI
 
 ![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/8ffdfd1a-2d6b-497e-936d-f2167178a913)
 
-## - Other pros
+## - Outros Prós
 Usar NUI também traz muitos outros benefícios, como flexibilidade para personalização, melhor dimensionamento e ser invisível em capturas de tela (já que muitos anticheats FiveM possuem sistemas OCR e Pixel_AntiCL tende a resultar em falsos banimentos em uma ampla gama de servidores FiveM).
